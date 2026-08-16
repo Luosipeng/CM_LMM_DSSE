@@ -1,0 +1,7 @@
+{
+  "extends": "default.json",
+  "training": {
+    "graph_temporal_weight": 0.0,
+    "output_dir": "outputs/paper_reproduction"
+  }
+}

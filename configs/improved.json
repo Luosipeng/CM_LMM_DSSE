@@ -1,0 +1,7 @@
+{
+  "extends": "default.json",
+  "training": {
+    "graph_temporal_weight": 0.005,
+    "output_dir": "outputs/improved"
+  }
+}
